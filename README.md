@@ -22,7 +22,7 @@ I'm Kunalraj patidar, a 3rd-year Computer Science student and exploring Cloud co
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,replit,kubernetes,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,eclipse,replit,kubernetes,docker&theme=dark" />
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -40,4 +40,3 @@ I'm Kunalraj patidar, a 3rd-year Computer Science student and exploring Cloud co
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
