@@ -12,7 +12,7 @@ I'm Kunalraj patidar, a 3rd-year Computer Science student and exploring Cloud co
 
 
 ### 🧠 Skills
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,linux,java,html,css,javascript,python,terraform,githubactions&theme=light" />
