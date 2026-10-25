@@ -3,7 +3,7 @@ I'm Kunalraj patidar, a 3rd-year Computer Science student and exploring Cloud co
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
-![Snake animation](https://github.com/kunalrajpatidar1/kunalrajpatidar1/output/github-snake.svg)   
+![Snake animation](https://raw.githubusercontent.com/kunalrajpatidar1/kunalrajpatidar1/output/github-snake-dark.svg)   
 ---
 <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 <br><br>
@@ -42,3 +42,4 @@ I'm Kunalraj patidar, a 3rd-year Computer Science student and exploring Cloud co
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+ 
