@@ -3,6 +3,7 @@ I'm Kunalraj patidar, a 3rd-year Computer Science student and exploring Cloud co
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
+![Snake animation](https://github.com/kunalrajpatidar1/kunalrajpatidar1/output/github-snake.svg)   
 ---
 <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 <br><br>
