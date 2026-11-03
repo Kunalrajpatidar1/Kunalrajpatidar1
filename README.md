@@ -32,7 +32,6 @@ I'm Kunalraj patidar, a 3rd-year Computer Science student and exploring Cloud co
 
 
 
-
 ---
 
 ## ✍️ Random Dev Quote
